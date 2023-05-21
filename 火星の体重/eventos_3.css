@@ -1,0 +1,94 @@
+body {
+    text-align: center;
+    background-color: #ECFFEC;
+    font-family:'Courier New', Courier, monospace;
+}
+
+input, h3, p {
+    margin: 5px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#peso {
+    background-color: #D7FFD7;
+    text-align: color;
+}
+
+img {
+    width: 75%;
+    height: 75%;
+    border: 5px solid brown;
+    margin: 10px;
+}
+
+/* Bakcgrounds (botones) */
+
+/* Mercurio */
+
+#b_mercurio {
+    background-color: #FEBF91;
+}
+
+#b_mercurio:hover {
+    background-color: #FFE3CE;
+}
+
+/* Venus */
+
+#b_venus {
+    background-color: #FFBE6C;
+}
+
+#b_venus:hover {
+    background-color: #FCE6C9;
+}
+
+/* Marte */
+
+#b_marte {
+    background-color: #FF8B8B;
+}
+
+#b_marte:hover {
+    background-color: #FEC7C7;
+}
+
+/* Jupiter */
+
+#b_jupiter {
+    background-color: #BFDCFF;
+}
+
+#b_jupiter:hover {
+    background-color: #DFF5FF;
+}
+
+/* Saturno */
+
+#b_saturno {
+    background-color: #FFFEA4;
+}
+
+#b_saturno:hover {
+    background-color: #FFFFE3;
+}
+
+/* Urano */
+
+#b_urano {
+    background-color: #95D5FF;
+}
+
+#b_urano:hover {
+    background-color: #D9F0FF;
+}
+
+/* Neptuno */
+
+#b_neptuno {
+    background-color: #8DAFE0;
+}
+
+#b_neptuno:hover {
+    background-color: #DEECFF;
+}
